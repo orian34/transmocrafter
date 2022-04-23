@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "transmocraft:wood_tools"
+  },
+  "addition": {
+    "item": "minecraft:wooden_hoe"
+  },
+  "result": {
+    "item": "minecraft:wooden_hoe"
+  }
+}

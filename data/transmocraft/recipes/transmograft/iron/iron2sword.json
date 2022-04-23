@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "transmocraft:iron_tools"
+  },
+  "addition": {
+    "item": "minecraft:iron_sword"
+  },
+  "result": {
+    "item": "minecraft:iron_sword"
+  }
+}

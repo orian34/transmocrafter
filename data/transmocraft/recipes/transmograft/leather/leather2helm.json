@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "transmocraft:leather_suit"
+  },
+  "addition": {
+    "item": "minecraft:leather_helmet"
+  },
+  "result": {
+    "item": "minecraft:leather_helmet"
+  }
+}

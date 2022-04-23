@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "transmocraft:iron_suit"
+  },
+  "addition": {
+    "item": "minecraft:iron_helmet"
+  },
+  "result": {
+    "item": "minecraft:iron_helmet"
+  }
+}

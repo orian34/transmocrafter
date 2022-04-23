@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "transmocraft:diamond_tools"
+  },
+  "addition": {
+    "item": "minecraft:diamond_hoe"
+  },
+  "result": {
+    "item": "minecraft:diamond_hoe"
+  }
+}

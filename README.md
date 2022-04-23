@@ -3,6 +3,9 @@ With it, armor pieces and tools can be upgraded to superior tiers using the corr
 What for you ask? That's because smithing keeps the NBT data of items, allowing you to shape your gear better to suit your needs, while costing materials.
 
 To make it more relevant, the smithing table recipe was changed from requiring iron ingots to any stone type(cobblestone, blackstone, cobbled deepslate). The existing netherite recipes were not changed.
+
+If you only want one feature without another, simply delete the files accordingly.
+
 The tier upgrade tree is as such:
 - Leather Armor + Chain or Block of Gold
 - Chainmail Armor + Block of Iron

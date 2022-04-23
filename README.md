@@ -16,5 +16,7 @@ The tier upgrade tree is as such:
 - Iron Tools + Block of Diamond
 
 Transmografting:
-Any Tier Tools + Same Tier Tools
-Any Tier Armor + Same Tier Armor
+- Any Tier Tools + Same Tier Tools
+- Any Tier Armor + Same Tier Armor
+
+Special Thanks to Zungryware, for his amazing work that heavily inspired this datapack. Go play Escher Dimensions!

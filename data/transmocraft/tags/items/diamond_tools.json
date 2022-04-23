@@ -4,6 +4,8 @@
 		"minecraft:diamond_hoe",
 		"minecraft:diamond_pickaxe",
 		"minecraft:diamond_shovel",
-		"minecraft:diamond_sword"
+		"minecraft:diamond_sword",
+		"minecraft:nether_star",
+		"minecraft:skull_banner_pattern"
 	]
 }

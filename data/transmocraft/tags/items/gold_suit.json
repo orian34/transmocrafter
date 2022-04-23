@@ -3,6 +3,9 @@
 		"minecraft:golden_boots",
 		"minecraft:golden_chestplate",
 		"minecraft:golden_helmet",
-		"minecraft:golden_leggings"
+		"minecraft:golden_leggings",
+		"minecraft:nether_star",
+    "minecraft:flower_banner_pattern",
+		"minecraft:piglin_banner_pattern"
 	]
 }

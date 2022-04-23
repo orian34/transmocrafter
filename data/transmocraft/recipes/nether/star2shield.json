@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "transmocraft:shields"
+  },
+  "addition": {
+    "item": "minecraft:shield"
+  },
+  "result": {
+    "item": "minecraft:shield"
+  }
+}

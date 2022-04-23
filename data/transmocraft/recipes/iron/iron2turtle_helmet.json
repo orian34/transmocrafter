@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:iron_helmet"
+    "tag": "transmocraft:turtle_hat"
   },
   "addition": {
     "item": "minecraft:turtle_helmet"

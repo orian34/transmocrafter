@@ -3,6 +3,8 @@
 		"minecraft:leather_boots",
 		"minecraft:leather_chestplate",
 		"minecraft:leather_helmet",
-		"minecraft:leather_leggings"
+		"minecraft:leather_leggings",
+		"minecraft:nether_star",
+    "minecraft:flower_banner_pattern"
 	]
 }

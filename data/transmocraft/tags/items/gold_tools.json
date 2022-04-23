@@ -4,6 +4,9 @@
 		"minecraft:golden_hoe",
 		"minecraft:golden_pickaxe",
 		"minecraft:golden_shovel",
-		"minecraft:golden_sword"
+		"minecraft:golden_sword",
+		"minecraft:nether_star",
+		"minecraft:skull_banner_pattern",
+		"minecraft:piglin_banner_pattern"
 	]
 }

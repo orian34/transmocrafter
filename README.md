@@ -1,4 +1,7 @@
+*Fully compatible with 1.18 and 1.16. For 1.16 you will need to edit the stone_upgrade.json since deepslate doesn't exist yet.
+
 Welcome to TransmoCrafter, a datapack that makes the smithing table a true tool for progression.
+
 With it, armor pieces and tools can be upgraded to superior tiers using the corresponding material. It also allows transmografting, changing the shape of the item to another piece of the same type(armor or tools) and tier.
 What for you ask? That's because smithing keeps the NBT data of the first item, allowing you to shape your gear better to suit your needs, while costing materials. Using this, you have scrolls with specific ranges of gear they can be applied to. Finally you can break down any item using nether stars, which can then be applied to any type of gear(the beacon recipe was disabled).
 

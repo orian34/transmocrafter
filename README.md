@@ -1,5 +1,6 @@
 > Fully compatible with 1.18 and 1.16. For 1.16 you will need to edit the stone_upgrade.json since deepslate doesn't exist yet.
 
+> Upgrading items with custom attribute data will not update values, so I recommend using [Item Builder](https://github.com/Zungrysoft/ItemBuilder) to change attributes, while keeping the vanilla values upgrade working. (That is, unless you don't want vanilla values and don't want it to change.)
 Welcome to TransmoCrafter, a datapack that makes the smithing table a true tool for progression.
 
 With it, armor pieces and tools can be upgraded to superior tiers using the corresponding material. It also allows transmografting, changing the shape of the item to another piece of the same type(armor or tools) and tier.

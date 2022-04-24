@@ -1,4 +1,4 @@
-*Fully compatible with 1.18 and 1.16. For 1.16 you will need to edit the stone_upgrade.json since deepslate doesn't exist yet.
+> Fully compatible with 1.18 and 1.16. For 1.16 you will need to edit the stone_upgrade.json since deepslate doesn't exist yet.
 
 Welcome to TransmoCrafter, a datapack that makes the smithing table a true tool for progression.
 

@@ -15,11 +15,14 @@ The tier upgrade tree is as such:
 - Chainmail Armor + Block of Iron
 - Iron Armor + Block of Diamond
 - Iron Helmet + Turtle Shell
+- Diamond Armor + Netherite Ingot
 
 - Wooden Tools + Stone Materials (Smooth Stone, Polished Blackstone, Polished Deepslate)
 - Stone Tools + Block of Iron or Block of Gold
 - Iron Tools + Block of Diamond
 - Diamond Tools + Netherite Ingot or Heart of the Sea
+
+![progtree](https://user-images.githubusercontent.com/12663654/165990964-9caefafe-5603-4967-8778-b9915901b475.png)
 
 Transmografting:
 - Any Tier Tools + Same Tier Tools

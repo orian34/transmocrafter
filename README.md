@@ -29,7 +29,7 @@ Transmocrafting:
 - Shield + Iron Block
 - Wheat Seeds + Iron Block
 
-![progtree](https://user-images.githubusercontent.com/12663654/168485963-a4a54d44-2441-45de-9bce-0e13163a37d0.png)
+![progtree](progtree.png)
 
 Transmografting:
 - Any Tier Tools + Same Tier Tools

@@ -1,0 +1,54 @@
+{
+    "display": {
+        "title": {
+            "text": " Golden Armor ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Leather armor can be upgraded into golden armor by using gold blocks as material. \n\nIt can't be upgraded further.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:golden_helmet"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+      "1": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:leather/leather2gold_boots"
+          }
+      },
+      "2": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:leather/leather2gold_chestplate"
+          }
+      },
+      "3": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:leather/leather2gold_helmet"
+          }
+      },
+      "4": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:leather/leather2gold_leggings"
+          }
+      }
+    },
+    "requirements": [
+        [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      ],
+    "parent": "transmocraft:tcleather"
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "     Bows     ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Any bow or crossbow can be changed into each other by using the new shape as material.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:crossbow"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:tgarmor"
+}

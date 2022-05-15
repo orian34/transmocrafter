@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "Stardust Forging",
+            "color": "white"
+        },
+        "description": {
+            "text": "You can extract and apply NBT on the smithing table using nether stars. \n\nBypass any tier or gear limitation to transfer NBT.",
+            "color": "dark_red"
+        },
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "frame": "challenge",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:prime"
+}

@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "    Shields    ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Shields can be upgraded into an iron chestplate by using an iron block as material. \n\nWalking fortress.",
+            "color": "dark_red"
+        },
+        "icon": {
+            "item": "minecraft:shield"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+      "1": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:wood/shield2chest"
+          }
+      }
+    },
+    "parent": "transmocraft:tcraft"
+}

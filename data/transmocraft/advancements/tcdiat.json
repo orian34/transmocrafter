@@ -1,0 +1,61 @@
+{
+    "display": {
+        "title": {
+            "text": " Diamond Tools ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Iron tools can be upgraded into diamond tools by using diamond blocks as material.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:diamond_pickaxe"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+      "1": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:iron/iron2dia_axe"
+          }
+      },
+      "2": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:iron/iron2dia_hoe"
+          }
+      },
+      "3": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:iron/iron2dia_pickaxe"
+          }
+      },
+      "4": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:iron/iron2dia_shovel"
+          }
+      },
+      "5": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:iron/iron2dia_sword"
+          }
+      }
+    },
+    "requirements": [
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      ],
+    "parent": "transmocraft:tciront"
+}

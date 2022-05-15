@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "  Seedy Pants  ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Wheat seeds can be upgraded into iron leggings by using an iron block as material. \n\nThe origins.",
+            "color": "dark_red"
+        },
+        "icon": {
+            "item": "minecraft:wheat_seeds"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+      "1": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:wood/seed2pants"
+          }
+      }
+    },
+    "parent": "transmocraft:tcraft"
+}

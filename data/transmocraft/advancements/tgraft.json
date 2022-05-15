@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "  Transmografting  ",
+            "color": "white"
+        },
+        "description": {
+            "text": "You can modify the shape of your gear on the smithing table. \n\nTransfer the NBT while picking the most suitable form for your items.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:clay"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:prime"
+}

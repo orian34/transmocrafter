@@ -1,0 +1,61 @@
+{
+    "display": {
+        "title": {
+            "text": "    Stone Tools    ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Wooden tools can be upgraded into stone tools by using polished stones as material. \n\nPolished stones being smooth stone, polished blackstone and polished deepslate.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:stone_pickaxe"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+      "1": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:wood/wood2stone_axe"
+          }
+      },
+      "2": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:wood/wood2stone_hoe"
+          }
+      },
+      "3": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:wood/wood2stone_pickaxe"
+          }
+      },
+      "4": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:wood/wood2stone_shovel"
+          }
+      },
+      "5": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:wood/wood2stone_sword"
+          }
+      }
+    },
+    "requirements": [
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      ],
+    "parent": "transmocraft:tcwood"
+}

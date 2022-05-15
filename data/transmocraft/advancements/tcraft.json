@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "  Transmocrafting  ",
+            "color": "white"
+        },
+        "description": {
+            "text": "You can use various materials to upgrade your gear on the smithing table. \n\nTransfer the NBT while increasing the tier to keep items relevant as you progress.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:prime"
+}

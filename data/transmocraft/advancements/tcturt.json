@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": " Turtle Shell ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Iron helmets can be upgraded into a turtle shell by using a turtle shell as material. \n\nIt can't be upgraded further.",
+            "color": "dark_red"
+        },
+        "icon": {
+            "item": "minecraft:turtle_helmet"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+      "1": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:iron/iron2turtle_helmet"
+          }
+      }
+    },
+    "parent": "transmocraft:tcirona"
+}

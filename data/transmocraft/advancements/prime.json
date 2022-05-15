@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "     TransmoCrafter: Basics     ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Welcome to TransmoCrafter, a datapack that makes the smithing table a true tool for progression. \n\nTo make it more relevant, the smithing table recipe was changed from requiring iron ingots to any stone material.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:smithing_table"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": true,
+        "background": "minecraft:textures/block/smithing_table_top.png"
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

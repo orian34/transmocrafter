@@ -1,0 +1,54 @@
+{
+    "display": {
+        "title": {
+            "text": " Chainmail Armor ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Leather armor can be upgraded into chainmail armor by using chains as material.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:chainmail_helmet"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+      "1": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:leather/leather2chain_boots"
+          }
+      },
+      "2": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:leather/leather2chain_chestplate"
+          }
+      },
+      "3": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:leather/leather2chain_helmet"
+          }
+      },
+      "4": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:leather/leather2chain_leggings"
+          }
+      }
+    },
+    "requirements": [
+        [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      ],
+    "parent": "transmocraft:tcleather"
+}

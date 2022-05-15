@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "        Armor        ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Any armor piece of the same tier can be changed into another by using the new shape as material. \n\nArmor pieces being helmets, chestplates, leggings and boots.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:iron_boots"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:tgtools"
+}

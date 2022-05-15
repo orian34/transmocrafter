@@ -1,0 +1,54 @@
+{
+    "display": {
+        "title": {
+            "text": " Diamond Armor ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Iron armor can be upgraded into diamond armor by using diamond blocks as material.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:diamond_helmet"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+      "1": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:iron/iron2dia_boots"
+          }
+      },
+      "2": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:iron/iron2dia_chestplate"
+          }
+      },
+      "3": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:iron/iron2dia_helmet"
+          }
+      },
+      "4": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:iron/iron2dia_leggings"
+          }
+      }
+    },
+    "requirements": [
+        [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      ],
+    "parent": "transmocraft:tcirona"
+}

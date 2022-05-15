@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "    Tridents    ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Diamond tools can be upgraded into a trident by using a heart of the sea as material. \n\nIt can't be upgraded further.",
+            "color": "dark_red"
+        },
+        "icon": {
+            "item": "minecraft:trident"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+      "1": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+              "recipe": "transmocraft:diamond/dia2trident"
+          }
+      }
+    },
+    "parent": "transmocraft:tcdiat"
+}

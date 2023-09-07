@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "transmocraft:netherite_suit"
   },
   "addition": {
-    "item": "minecraft:netherite_boots"
+    "item": "minecraft:netherite_ingot"
   },
   "result": {
+    "item": "minecraft:netherite_boots"
+  },
+  "template": {
     "item": "minecraft:netherite_boots"
   }
 }

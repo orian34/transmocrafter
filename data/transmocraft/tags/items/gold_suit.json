@@ -5,7 +5,8 @@
 		"minecraft:golden_helmet",
 		"minecraft:golden_leggings",
 		"minecraft:nether_star",
-    "minecraft:flower_banner_pattern",
-		"minecraft:piglin_banner_pattern"
+		"minecraft:flower_banner_pattern",
+		"minecraft:piglin_banner_pattern",
+		"minecraft:globe_banner_pattern"
 	]
 }

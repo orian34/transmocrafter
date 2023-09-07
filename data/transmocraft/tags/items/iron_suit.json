@@ -4,7 +4,9 @@
 		"minecraft:iron_chestplate",
 		"minecraft:iron_helmet",
 		"minecraft:iron_leggings",
+		"minecraft:turtle_helmet",
 		"minecraft:nether_star",
-    "minecraft:flower_banner_pattern"
+		"minecraft:flower_banner_pattern",
+		"minecraft:globe_banner_pattern"
 	]
 }

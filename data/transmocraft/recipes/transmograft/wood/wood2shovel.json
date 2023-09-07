@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "transmocraft:wood_tools"
   },
   "addition": {
-    "item": "minecraft:wooden_shovel"
+	"tag": "minecraft:planks"
   },
   "result": {
+    "item": "minecraft:wooden_shovel"
+  },
+  "template": {
     "item": "minecraft:wooden_shovel"
   }
 }

@@ -5,7 +5,9 @@
 		"minecraft:iron_pickaxe",
 		"minecraft:iron_shovel",
 		"minecraft:iron_sword",
+		"minecraft:flint_and_steel",
 		"minecraft:nether_star",
-		"minecraft:skull_banner_pattern"
+		"minecraft:skull_banner_pattern",
+		"minecraft:globe_banner_pattern"
 	]
 }

@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Any armor piece of the same tier can be changed into another by using the new shape as material. \n\nArmor pieces being helmets, chestplates, leggings and boots.",
+            "text": "Any armor piece of the same tier can be changed into another by using the new shape as template. \n\nArmor pieces being helmets, chestplates, leggings and boots.",
             "color": "aqua"
         },
         "icon": {

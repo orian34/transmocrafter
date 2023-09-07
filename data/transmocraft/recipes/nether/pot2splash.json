@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "tag": "transmocraft:ingredients"
+  },
+  "addition": {
+    "item": "minecraft:blaze_powder"
+  },
+  "result": {
+    "item": "minecraft:splash_potion"
+  },
+  "template": {
+    "item": "minecraft:gunpowder"
+  }
+}

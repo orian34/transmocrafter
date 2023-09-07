@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "transmocraft:leather_suit"
   },
   "addition": {
-    "item": "minecraft:leather_boots"
+    "item": "minecraft:leather"
   },
   "result": {
+    "item": "minecraft:leather_boots"
+  },
+  "template": {
     "item": "minecraft:leather_boots"
   }
 }

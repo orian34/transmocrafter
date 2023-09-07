@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_pickaxe"
   },
   "addition": {
-    "item": "minecraft:diamond_block"
+    "item": "minecraft:diamond"
   },
   "result": {
     "item": "minecraft:diamond_pickaxe"
+  },
+  "template": {
+    "item": "minecraft:diamond"
   }
 }

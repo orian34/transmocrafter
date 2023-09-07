@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "transmocraft:diamond_tools"
   },
   "addition": {
-    "item": "minecraft:diamond_sword"
+    "item": "minecraft:diamond"
   },
   "result": {
+    "item": "minecraft:diamond_sword"
+  },
+  "template": {
     "item": "minecraft:diamond_sword"
   }
 }

@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Iron helmets can be upgraded into a turtle shell by using a turtle shell as material. \n\nIt can't be upgraded further.",
+            "text": "Iron helmets can be upgraded into a turtle shell by using a scute as template. \n\nIt can't be upgraded further, counts as iron armor tier.",
             "color": "dark_red"
         },
         "icon": {

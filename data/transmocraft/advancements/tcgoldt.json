@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Stone tools can be upgraded into golden tools by using gold blocks as material. \n\nThey can't be upgraded further.",
+            "text": "Stone tools can be upgraded into golden tools by using gold ingots as template. \n\nThey can't be upgraded further.",
             "color": "aqua"
         },
         "icon": {

@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Iron tools can be upgraded into diamond tools by using diamond blocks as material.",
+            "text": "Iron tools can be upgraded into diamond tools by using diamonds as template.",
             "color": "aqua"
         },
         "icon": {

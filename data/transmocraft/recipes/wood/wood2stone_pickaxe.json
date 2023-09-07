@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:wooden_pickaxe"
   },
   "addition": {
-    "tag": "transmocraft:stone_upgrade"
+    "tag": "minecraft:stone_crafting_materials"
   },
   "result": {
     "item": "minecraft:stone_pickaxe"
+  },
+  "template": {
+    "tag": "minecraft:stone_crafting_materials"
   }
 }

@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "You can use various materials to upgrade your gear on the smithing table. \n\nTransfer the NBT while increasing the tier to keep items relevant as you progress.",
+            "text": "You can use various templates and tier materials to upgrade your gear on the smithing table. \n\nTransfer the NBT while increasing the tier to keep items relevant as you progress.",
             "color": "aqua"
         },
         "icon": {

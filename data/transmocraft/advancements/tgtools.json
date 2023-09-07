@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Any tool of the same tier can be changed into another by using the new shape as material. \n\nTools being swords, axes, pickaxes, shovels and hoes.",
+            "text": "Any tool of the same tier can be changed into another by using the new shape as template. \n\nTools being swords, axes, pickaxes, shovels and hoes.",
             "color": "aqua"
         },
         "icon": {

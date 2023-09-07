@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "transmocraft:gold_tools"
   },
   "addition": {
-    "item": "minecraft:golden_sword"
+    "item": "minecraft:gold_ingot"
   },
   "result": {
+    "item": "minecraft:golden_sword"
+  },
+  "template": {
     "item": "minecraft:golden_sword"
   }
 }

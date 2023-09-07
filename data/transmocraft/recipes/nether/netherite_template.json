@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "R": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "pattern": [
+    "RDR",
+    "DND",
+    "RDR"
+  ],
+  "result": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "show_notification": true
+}

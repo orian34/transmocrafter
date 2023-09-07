@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "        Imbibing        ",
+            "color": "white"
+        },
+        "description": {
+            "text": "You can make and change potions with the smithing table, a costlier but more flexible alternative to brewing. \n\nIt will require the base to have potion effect data, it will accept any ingredient or potion. \n\nPotion tier material is blaze powder.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:brewing_stand"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:prime"
+}

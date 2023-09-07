@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "transmocraft:bows"
   },
   "addition": {
-    "item": "minecraft:crossbow"
+	"tag": "minecraft:planks"
   },
   "result": {
+    "item": "minecraft:crossbow"
+  },
+  "template": {
     "item": "minecraft:crossbow"
   }
 }

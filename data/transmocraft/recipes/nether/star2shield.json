@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "transmocraft:shields"
   },
   "addition": {
-    "item": "minecraft:shield"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
+    "item": "minecraft:shield"
+  },
+  "template": {
     "item": "minecraft:shield"
   }
 }

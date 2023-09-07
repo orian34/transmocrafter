@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "You can extract and apply NBT on the smithing table using nether stars. \n\nBypass any tier or gear limitation to transfer NBT.",
+            "text": "You can extract and apply NBT on the smithing table using nether stars as template or base. \n\nBypass any tier or gear limitation to transfer NBT. \n\nExtracting uses soul sand as tier material.",
             "color": "dark_red"
         },
         "icon": {

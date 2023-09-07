@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "tag": "transmocraft:iron_tools"
+  },
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "item": "minecraft:flint_and_steel"
+  },
+  "template": {
+    "tag": "transmocraft:flint_temp"
+  }
+}

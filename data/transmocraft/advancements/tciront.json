@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Stone tools can be upgraded into iron tools by using iron blocks as material.",
+            "text": "Stone tools can be upgraded into iron tools by using iron ingots as template.",
             "color": "aqua"
         },
         "icon": {

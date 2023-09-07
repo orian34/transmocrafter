@@ -1,7 +1,8 @@
 {
 	"values": [
-    "minecraft:iron_helmet",
+		"minecraft:iron_helmet",
 		"minecraft:nether_star",
-    "minecraft:flower_banner_pattern"
+		"minecraft:flower_banner_pattern",
+		"minecraft:globe_banner_pattern"
 	]
 }

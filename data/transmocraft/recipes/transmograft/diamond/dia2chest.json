@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "transmocraft:diamond_suit"
   },
   "addition": {
-    "item": "minecraft:diamond_chestplate"
+    "item": "minecraft:diamond"
   },
   "result": {
+    "item": "minecraft:diamond_chestplate"
+  },
+  "template": {
     "item": "minecraft:diamond_chestplate"
   }
 }

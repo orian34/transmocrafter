@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:chainmail_boots"
   },
   "addition": {
-    "item": "minecraft:iron_block"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
     "item": "minecraft:iron_boots"
+  },
+  "template": {
+    "item": "minecraft:iron_ingot"
   }
 }

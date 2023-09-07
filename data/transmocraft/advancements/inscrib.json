@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "You can apply NBT on your gear with the smithing table. \n\nSimilar to enchanted books for the anvil, banner patterns are for the smithing table.",
+            "text": "You can apply NBT on your gear with the smithing table. \n\nSimilar to enchanted books for the anvil, banner patterns are used as base for the smithing table.",
             "color": "aqua"
         },
         "icon": {

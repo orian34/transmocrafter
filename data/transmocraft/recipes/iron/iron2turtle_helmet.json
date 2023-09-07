@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "transmocraft:turtle_hat"
   },
   "addition": {
-    "item": "minecraft:turtle_helmet"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
     "item": "minecraft:turtle_helmet"
+  },
+  "template": {
+    "tag": "transmocraft:scute_temp"
   }
 }

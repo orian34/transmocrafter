@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Leather armor can be upgraded into golden armor by using gold blocks as material. \n\nIt can't be upgraded further.",
+            "text": "Leather armor can be upgraded into golden armor by using gold ingots as template. \n\nIt can't be upgraded further.",
             "color": "aqua"
         },
         "icon": {

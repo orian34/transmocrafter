@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Chainmail armor can be upgraded into iron armor by using iron blocks as material.",
+            "text": "Chainmail armor can be upgraded into iron armor by using iron ingots as template.",
             "color": "aqua"
         },
         "icon": {

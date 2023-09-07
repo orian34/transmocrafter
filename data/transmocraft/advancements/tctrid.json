@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Diamond tools can be upgraded into a trident by using a heart of the sea as material. \n\nIt can't be upgraded further.",
+            "text": "Diamond tools can be upgraded into a trident by using a heart of the sea as template. \n\nIt can't be upgraded further, counts as diamond tool tier.",
             "color": "dark_red"
         },
         "icon": {

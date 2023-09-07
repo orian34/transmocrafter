@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Wooden tools can be upgraded into stone tools by using polished stones as material. \n\nPolished stones being smooth stone, polished blackstone and polished deepslate.",
+            "text": "Wooden tools can be upgraded into stone tools by using any cobblestone as template.",
             "color": "aqua"
         },
         "icon": {

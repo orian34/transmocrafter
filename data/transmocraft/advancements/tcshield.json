@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Shields can be upgraded into an iron chestplate by using an iron block as material. \n\nWalking fortress.",
+            "text": "Shields can be upgraded into an iron chestplate by using iron ingots as template. \n\nWalking fortress.",
             "color": "dark_red"
         },
         "icon": {

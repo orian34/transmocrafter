@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "tag": "transmocraft:star_dust"
   },
   "addition": {
-    "item": "minecraft:nether_star"
+    "item": "minecraft:soul_sand"
   },
   "result": {
+    "item": "minecraft:nether_star"
+  },
+  "template": {
     "item": "minecraft:nether_star"
   }
 }

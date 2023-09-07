@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "Lingering Potion",
+            "color": "white"
+        },
+        "description": {
+            "text": "Uses dragon's breath as template.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:lingering_potion"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:imbspla"
+}

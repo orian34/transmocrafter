@@ -5,6 +5,7 @@
 		"minecraft:diamond_helmet",
 		"minecraft:diamond_leggings",
 		"minecraft:nether_star",
-    "minecraft:flower_banner_pattern"
+		"minecraft:flower_banner_pattern",
+		"minecraft:globe_banner_pattern"
 	]
 }

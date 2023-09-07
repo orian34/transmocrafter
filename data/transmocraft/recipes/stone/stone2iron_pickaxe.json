@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:stone_pickaxe"
   },
   "addition": {
-    "item": "minecraft:iron_block"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
     "item": "minecraft:iron_pickaxe"
+  },
+  "template": {
+    "item": "minecraft:iron_ingot"
   }
 }

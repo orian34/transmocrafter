@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:shield"
   },
   "addition": {
-    "item": "minecraft:iron_block"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
     "item": "minecraft:iron_chestplate"
+  },
+  "template": {
+    "item": "minecraft:iron_ingot"
   }
 }

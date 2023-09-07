@@ -1,12 +1,15 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
   "base": {
     "item": "minecraft:iron_boots"
   },
   "addition": {
-    "item": "minecraft:diamond_block"
+    "item": "minecraft:diamond"
   },
   "result": {
     "item": "minecraft:diamond_boots"
+  },
+  "template": {
+    "item": "minecraft:diamond"
   }
 }

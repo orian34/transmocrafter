@@ -1,0 +1,9 @@
+{
+  "asset_id": "minecraft:raiser",
+  "decal": false,
+  "description": {
+    "translate": "transmo.eng.raiser",
+    "fallback": "Attack Speed"
+  },
+  "template_item": "minecraft:raiser_armor_trim_smithing_template"
+}

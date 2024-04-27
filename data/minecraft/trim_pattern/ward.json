@@ -1,0 +1,9 @@
+{
+  "asset_id": "minecraft:ward",
+  "decal": false,
+  "description": {
+    "translate": "transmo.eng.ward",
+    "fallback": "Armor Toughness"
+  },
+  "template_item": "minecraft:ward_armor_trim_smithing_template"
+}

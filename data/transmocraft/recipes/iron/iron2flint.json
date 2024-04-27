@@ -7,7 +7,7 @@
     "item": "minecraft:iron_ingot"
   },
   "result": {
-    "item": "minecraft:flint_and_steel"
+    "id": "minecraft:flint_and_steel"
   },
   "template": {
     "tag": "transmocraft:flint_temp"

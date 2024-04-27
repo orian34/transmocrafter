@@ -1,0 +1,9 @@
+{
+  "asset_id": "minecraft:vex",
+  "decal": false,
+  "description": {
+    "translate": "transmo.eng.vex",
+    "fallback": "Attack Reach"
+  },
+  "template_item": "minecraft:vex_armor_trim_smithing_template"
+}

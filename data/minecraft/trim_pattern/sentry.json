@@ -1,0 +1,9 @@
+{
+  "asset_id": "minecraft:sentry",
+  "decal": false,
+  "description": {
+    "translate": "transmo.eng.sentry",
+    "fallback": "Knockback Resistance"
+  },
+  "template_item": "minecraft:sentry_armor_trim_smithing_template"
+}

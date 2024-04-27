@@ -1,0 +1,9 @@
+{
+  "asset_id": "minecraft:shaper",
+  "decal": false,
+  "description": {
+    "translate": "transmo.eng.shaper",
+    "fallback": "Step Height"
+  },
+  "template_item": "minecraft:shaper_armor_trim_smithing_template"
+}

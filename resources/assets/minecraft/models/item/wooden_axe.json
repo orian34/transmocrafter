@@ -1,0 +1,68 @@
+{
+  "parent": "minecraft:item/handheld",
+  "overrides": [
+    {
+      "model": "transmocrafter:item/trim/axe/wood/quartz",
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/axe/wood/iron",
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/axe/wood/netherite",
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/axe/wood/redstone",
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/axe/wood/copper",
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/axe/wood/gold",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/axe/wood/emerald",
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/axe/wood/diamond",
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/axe/wood/lapis",
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/axe/wood/amethyst",
+      "predicate": {
+        "trim_type": 1.0
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/wooden_axe"
+  }
+}

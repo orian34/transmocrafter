@@ -1,0 +1,9 @@
+{
+  "asset_id": "minecraft:tide",
+  "decal": false,
+  "description": {
+    "translate": "transmo.eng.tide",
+    "fallback": "Jump Boost"
+  },
+  "template_item": "minecraft:tide_armor_trim_smithing_template"
+}

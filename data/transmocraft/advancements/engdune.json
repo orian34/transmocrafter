@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "translate": "transmo.eng.trim.dune",
+            "fallback": "Dune Rune",
+            "color": "white"
+        },
+        "description": {
+            "translate": "transmo.eng.trim.dune.desc",
+            "fallback": "Provides +0.05 Mining Reach per Tier.",
+            "color": "aqua"
+        },
+        "icon": {
+            "id": "minecraft:dune_armor_trim_smithing_template"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:engcoast"
+}

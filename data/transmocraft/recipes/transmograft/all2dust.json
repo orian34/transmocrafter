@@ -7,7 +7,7 @@
     "item": "minecraft:soul_sand"
   },
   "result": {
-    "item": "minecraft:nether_star"
+    "id": "minecraft:nether_star"
   },
   "template": {
     "item": "minecraft:nether_star"

@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "Globe Banner Pattern",
+            "translate": "transmo.ins.glob",
+            "fallback": "Globe Scroll",
             "color": "white"
         },
         "description": {
-            "text": "Applicable on any gear.",
+            "translate": "transmo.ins.glob.desc",
+            "fallback": "Applicable on any gear.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:globe_banner_pattern"
+            "id": "minecraft:globe_banner_pattern"
         },
         "frame": "task",
         "show_toast": false,

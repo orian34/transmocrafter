@@ -18,7 +18,7 @@
     "RDR"
   ],
   "result": {
-    "item": "minecraft:netherite_upgrade_smithing_template"
+    "id": "minecraft:netherite_upgrade_smithing_template"
   },
   "show_notification": true
 }

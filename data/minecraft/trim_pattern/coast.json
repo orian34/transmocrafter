@@ -1,0 +1,9 @@
+{
+  "asset_id": "minecraft:coast",
+  "decal": false,
+  "description": {
+    "translate": "transmo.eng.coast",
+    "fallback": "Fall Damage Reduction"
+  },
+  "template_item": "minecraft:coast_armor_trim_smithing_template"
+}

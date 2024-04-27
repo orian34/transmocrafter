@@ -1,0 +1,68 @@
+{
+  "parent": "minecraft:item/handheld",
+  "overrides": [
+    {
+      "model": "transmocrafter:item/trim/hoe/iron/quartz",
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/hoe/iron/iron",
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/hoe/iron/netherite",
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/hoe/iron/redstone",
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/hoe/iron/copper",
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/hoe/iron/gold",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/hoe/iron/emerald",
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/hoe/iron/diamond",
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/hoe/iron/lapis",
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/hoe/iron/amethyst",
+      "predicate": {
+        "trim_type": 1.0
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/iron_hoe"
+  }
+}

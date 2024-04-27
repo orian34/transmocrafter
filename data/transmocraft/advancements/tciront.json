@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": " Iron Tools ",
+            "translate": "transmo.tc.iron.t",
+            "fallback": " Iron Tools ",
             "color": "white"
         },
         "description": {
-            "text": "Stone tools can be upgraded into iron tools by using iron ingots as template.",
+            "translate": "transmo.tc.iron.t.desc",
+            "fallback": "Stone tools can be upgraded into iron tools by using iron ingots as template.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:iron_pickaxe"
+            "id": "minecraft:iron_pickaxe"
         },
         "frame": "task",
         "show_toast": true,

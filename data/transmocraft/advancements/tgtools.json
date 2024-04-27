@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "       Tools       ",
+            "translate": "transmo.tg.tools",
+            "fallback": "       Tools       ",
             "color": "white"
         },
         "description": {
-            "text": "Any tool of the same tier can be changed into another by using the new shape as template. \n\nTools being swords, axes, pickaxes, shovels and hoes.",
+            "translate": "transmo.tg.tools.desc",
+            "fallback": "Any tool of the same tier can be changed into another by using the new shape as template. \n\nTools being swords, axes, pickaxes, shovels and hoes.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:iron_axe"
+            "id": "minecraft:iron_axe"
         },
         "frame": "task",
         "show_toast": false,

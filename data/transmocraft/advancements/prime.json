@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "     TransmoCrafter: Basics     ",
+            "translate": "transmo.base",
+            "fallback": "     TransmoCrafter: Basics     ",
             "color": "white"
         },
         "description": {
-            "text": "Welcome to TransmoCrafter, a datapack that makes the smithing table a true tool for progression. \n\nTo make it more relevant, the smithing table recipe was changed from requiring iron ingots to any stone material.",
+            "translate": "transmo.base.desc",
+            "fallback": "Welcome to TransmoCrafter, a datapack that makes the smithing table a true tool for progression. \n\nTo make it more relevant, the smithing table recipe was changed from requiring iron ingots to any stone material. \n\nSome recipes were tweaked and all the vanilla recipes for items now craft unbreakable items.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:smithing_table"
+            "id": "minecraft:smithing_table"
         },
         "frame": "task",
         "show_toast": false,

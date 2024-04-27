@@ -7,7 +7,7 @@
     "item": "minecraft:gold_ingot"
   },
   "result": {
-    "item": "minecraft:golden_hoe"
+    "id": "minecraft:golden_hoe"
   },
   "template": {
     "item": "minecraft:gold_ingot"

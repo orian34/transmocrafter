@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": " Diamond Armor ",
+            "translate": "transmo.tc.dia.a",
+            "fallback": " Diamond Armor ",
             "color": "white"
         },
         "description": {
-            "text": "Iron armor can be upgraded into diamond armor by using diamonds as template.",
+            "translate": "transmo.tc.dia.a.desc",
+            "fallback": "Iron armor can be upgraded into diamond armor by using diamonds as template.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:diamond_helmet"
+            "id": "minecraft:diamond_helmet"
         },
         "frame": "task",
         "show_toast": true,

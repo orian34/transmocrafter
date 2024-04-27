@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": " Diamond Tools ",
+            "translate": "transmo.tc.dia.t",
+            "fallback": " Diamond Tools ",
             "color": "white"
         },
         "description": {
-            "text": "Iron tools can be upgraded into diamond tools by using diamonds as template.",
+            "translate": "transmo.tc.dia.t.desc",
+            "fallback": "Iron tools can be upgraded into diamond tools by using diamonds as template.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:diamond_pickaxe"
+            "id": "minecraft:diamond_pickaxe"
         },
         "frame": "task",
         "show_toast": true,

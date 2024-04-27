@@ -7,7 +7,7 @@
     "item": "minecraft:iron_ingot"
   },
   "result": {
-    "item": "minecraft:iron_helmet"
+    "id": "minecraft:iron_helmet"
   },
   "template": {
     "item": "minecraft:iron_helmet"

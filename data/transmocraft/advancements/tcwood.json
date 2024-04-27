@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "Wooden Tools",
+            "translate": "transmo.tc.wood",
+            "fallback": "Wooden Tools",
             "color": "white"
         },
         "description": {
-            "text": "The root of the upgrade tree. Has to be crafted.",
+            "translate": "transmo.tc.root.desc",
+            "fallback": "The root of the upgrade tree. Has to be crafted.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:wooden_pickaxe"
+            "id": "minecraft:wooden_pickaxe"
         },
         "frame": "task",
         "show_toast": false,

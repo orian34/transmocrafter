@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "       Inscribing       ",
+            "translate": "transmo.ins",
+            "fallback": "       Inscribing       ",
             "color": "white"
         },
         "description": {
-            "text": "You can apply NBT on your gear with the smithing table. \n\nSimilar to enchanted books for the anvil, banner patterns are used as base for the smithing table.",
+            "translate": "transmo.ins.desc",
+            "fallback": "You can apply custom data on your gear with the smithing table. \n\nSimilar to enchanted books for the anvil, scrolls are used as base for the smithing table.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:writable_book"
+            "id": "minecraft:writable_book"
         },
         "frame": "goal",
         "show_toast": false,

@@ -1,0 +1,10 @@
+{
+  "asset_name": "emerald",
+  "description": {
+    "color": "#11A036",
+    "translate": "transmo.eng.emerald",
+    "fallback": "Tier 9"
+  },
+  "ingredient": "minecraft:emerald",
+  "item_model_index": 0.7
+}

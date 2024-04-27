@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "        Armor        ",
+            "translate": "transmo.tg.armor",
+            "fallback": "        Armor        ",
             "color": "white"
         },
         "description": {
-            "text": "Any armor piece of the same tier can be changed into another by using the new shape as template. \n\nArmor pieces being helmets, chestplates, leggings and boots.",
+            "translate": "transmo.tg.armor.desc",
+            "fallback": "Any armor piece of the same tier can be changed into another by using the new shape as template. \n\nArmor pieces being helmets, chestplates, leggings and boots.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:iron_boots"
+            "id": "minecraft:iron_boots"
         },
         "frame": "task",
         "show_toast": false,

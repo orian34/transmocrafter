@@ -7,7 +7,7 @@
     "item": "minecraft:leather"
   },
   "result": {
-    "item": "minecraft:leather_helmet"
+    "id": "minecraft:leather_helmet"
   },
   "template": {
     "item": "minecraft:leather_helmet"

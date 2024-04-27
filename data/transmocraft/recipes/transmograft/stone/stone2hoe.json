@@ -7,7 +7,7 @@
     "tag": "minecraft:stone_crafting_materials"
   },
   "result": {
-    "item": "minecraft:stone_hoe"
+    "id": "minecraft:stone_hoe"
   },
   "template": {
     "item": "minecraft:stone_hoe"

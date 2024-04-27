@@ -1,0 +1,68 @@
+{
+  "parent": "minecraft:item/handheld",
+  "overrides": [
+    {
+      "model": "transmocrafter:item/trim/shovel/gold/quartz",
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/shovel/gold/iron",
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/shovel/gold/netherite",
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/shovel/gold/redstone",
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/shovel/gold/copper",
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/shovel/gold/gold",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/shovel/gold/emerald",
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/shovel/gold/diamond",
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/shovel/gold/lapis",
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/shovel/gold/amethyst",
+      "predicate": {
+        "trim_type": 1.0
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/golden_shovel"
+  }
+}

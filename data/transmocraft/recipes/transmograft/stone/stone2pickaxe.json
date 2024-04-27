@@ -7,7 +7,7 @@
     "tag": "minecraft:stone_crafting_materials"
   },
   "result": {
-    "item": "minecraft:stone_pickaxe"
+    "id": "minecraft:stone_pickaxe"
   },
   "template": {
     "item": "minecraft:stone_pickaxe"

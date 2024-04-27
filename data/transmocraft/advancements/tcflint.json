@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": " Flint and Steel ",
+            "translate": "transmo.tc.flint",
+            "fallback": " Flint and Steel ",
             "color": "white"
         },
         "description": {
-            "text": "Iron tools can be upgraded into a flint and steel by using a flint as template. \n\nIt can't be upgraded further, counts as iron tool tier.",
+            "translate": "transmo.tc.flint.desc",
+            "fallback": "Iron tools can be upgraded into a flint and steel by using a flint as template. \n\nIt can't be upgraded further, counts as iron tool tier.",
             "color": "dark_red"
         },
         "icon": {
-            "item": "minecraft:flint_and_steel"
+            "id": "minecraft:flint_and_steel"
         },
         "frame": "challenge",
         "show_toast": true,

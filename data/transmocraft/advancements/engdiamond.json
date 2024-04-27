@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "translate": "transmo.eng.mat.diamond",
+            "fallback": "Diamond Upgrade",
+            "color": "white"
+        },
+        "description": {
+            "translate": "transmo.eng.diamond",
+            "fallback": "Tier 8",
+            "color": "aqua"
+        },
+        "icon": {
+            "id": "minecraft:diamond"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:englapis"
+}

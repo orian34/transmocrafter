@@ -1,0 +1,10 @@
+{
+  "asset_name": "amethyst",
+  "description": {
+    "color": "#9A5CC6",
+    "translate": "transmo.eng.amethyst",
+    "fallback": "Tier 6"
+  },
+  "ingredient": "minecraft:amethyst_shard",
+  "item_model_index": 1.0
+}

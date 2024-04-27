@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "translate": "transmo.eng.trim.silence",
+            "fallback": "Silence Rune",
+            "color": "white"
+        },
+        "description": {
+            "translate": "transmo.eng.trim.silence.desc",
+            "fallback": "Provides +0.15 Attack Damage per Tier.",
+            "color": "aqua"
+        },
+        "icon": {
+            "id": "minecraft:silence_armor_trim_smithing_template"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:engshaper"
+}

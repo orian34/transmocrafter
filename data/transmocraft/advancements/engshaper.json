@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "translate": "transmo.eng.trim.shaper",
+            "fallback": "Shaper Rune",
+            "color": "white"
+        },
+        "description": {
+            "translate": "transmo.eng.trim.shaper.desc",
+            "fallback": "Provides +0.05 Step Height per Tier.",
+            "color": "aqua"
+        },
+        "icon": {
+            "id": "minecraft:shaper_armor_trim_smithing_template"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:engsentry"
+}

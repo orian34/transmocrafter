@@ -7,7 +7,7 @@
     "tag": "minecraft:stone_crafting_materials"
   },
   "result": {
-    "item": "minecraft:stone_axe"
+    "id": "minecraft:stone_axe"
   },
   "template": {
     "item": "minecraft:stone_axe"

@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "translate": "transmo.eng.mat.copper",
+            "fallback": "Copper Upgrade",
+            "color": "white"
+        },
+        "description": {
+            "translate": "transmo.eng.copper",
+            "fallback": "Tier 2",
+            "color": "aqua"
+        },
+        "icon": {
+            "id": "minecraft:copper_ingot"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:engredstone"
+}

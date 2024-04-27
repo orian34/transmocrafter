@@ -7,7 +7,7 @@
 	"tag": "minecraft:planks"
   },
   "result": {
-    "item": "minecraft:wooden_hoe"
+    "id": "minecraft:wooden_hoe"
   },
   "template": {
     "item": "minecraft:wooden_hoe"

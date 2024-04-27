@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "Lingering Potion",
+            "translate": "transmo.imb.ling",
+            "fallback": "Lingering Potion",
             "color": "white"
         },
         "description": {
-            "text": "Uses dragon's breath as template.",
+            "translate": "transmo.imb.ling.desc",
+            "fallback": "Uses dragon's breath as template.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:lingering_potion"
+            "id": "minecraft:lingering_potion"
         },
         "frame": "task",
         "show_toast": false,

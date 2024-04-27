@@ -7,7 +7,7 @@
     "item": "minecraft:blaze_powder"
   },
   "result": {
-    "item": "minecraft:splash_potion"
+    "id": "minecraft:splash_potion"
   },
   "template": {
     "item": "minecraft:gunpowder"

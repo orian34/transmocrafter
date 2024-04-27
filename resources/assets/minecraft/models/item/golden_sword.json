@@ -1,0 +1,68 @@
+{
+  "parent": "minecraft:item/handheld",
+  "overrides": [
+    {
+      "model": "transmocrafter:item/trim/sword/gold/quartz",
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/sword/gold/iron",
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/sword/gold/netherite",
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/sword/gold/redstone",
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/sword/gold/copper",
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/sword/gold/gold",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/sword/gold/emerald",
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/sword/gold/diamond",
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/sword/gold/lapis",
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "transmocrafter:item/trim/sword/gold/amethyst",
+      "predicate": {
+        "trim_type": 1.0
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/golden_sword"
+  }
+}

@@ -1,0 +1,340 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bow"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -80, 260, -40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -80, -280, 40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+        {
+          "model": "transmocrafter:item/trim/bow/1/quartz",
+          "predicate": {
+            "trim_type": 0.1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/1/iron",
+          "predicate": {
+            "trim_type": 0.2
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/1/netherite",
+          "predicate": {
+            "trim_type": 0.3
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/1/redstone",
+          "predicate": {
+            "trim_type": 0.4
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/1/copper",
+          "predicate": {
+            "trim_type": 0.5
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/1/gold",
+          "predicate": {
+            "trim_type": 0.6
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/1/emerald",
+          "predicate": {
+            "trim_type": 0.7
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/1/diamond",
+          "predicate": {
+            "trim_type": 0.8
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/1/lapis",
+          "predicate": {
+            "trim_type": 0.9
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/1/amethyst",
+          "predicate": {
+            "trim_type": 1.0
+          }
+        },
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "minecraft:item/bow_pulling_0"
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/2/quartz",
+          "predicate": {
+            "trim_type": 0.1,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/2/iron",
+          "predicate": {
+            "trim_type": 0.2,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/2/netherite",
+          "predicate": {
+            "trim_type": 0.3,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/2/redstone",
+          "predicate": {
+            "trim_type": 0.4,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/2/copper",
+          "predicate": {
+            "trim_type": 0.5,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/2/gold",
+          "predicate": {
+            "trim_type": 0.6,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/2/emerald",
+          "predicate": {
+            "trim_type": 0.7,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/2/diamond",
+          "predicate": {
+            "trim_type": 0.8,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/2/lapis",
+          "predicate": {
+            "trim_type": 0.9,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/2/amethyst",
+          "predicate": {
+            "trim_type": 1.0,
+            "pulling": 1
+          }
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "minecraft:item/bow_pulling_1"
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/3/quartz",
+          "predicate": {
+            "trim_type": 0.1,
+            "pulling": 1,
+            "pull": 0.65
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/3/iron",
+          "predicate": {
+            "trim_type": 0.2,
+            "pulling": 1,
+            "pull": 0.65
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/3/netherite",
+          "predicate": {
+            "trim_type": 0.3,
+            "pulling": 1,
+            "pull": 0.65
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/3/redstone",
+          "predicate": {
+            "trim_type": 0.4,
+            "pulling": 1,
+            "pull": 0.65
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/3/copper",
+          "predicate": {
+            "trim_type": 0.5,
+            "pulling": 1,
+            "pull": 0.65
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/3/gold",
+          "predicate": {
+            "trim_type": 0.6,
+            "pulling": 1,
+            "pull": 0.65
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/3/emerald",
+          "predicate": {
+            "trim_type": 0.7,
+            "pulling": 1,
+            "pull": 0.65
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/3/diamond",
+          "predicate": {
+            "trim_type": 0.8,
+            "pulling": 1,
+            "pull": 0.65
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/3/lapis",
+          "predicate": {
+            "trim_type": 0.9,
+            "pulling": 1,
+            "pull": 0.65
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/3/amethyst",
+          "predicate": {
+            "trim_type": 1.0,
+            "pulling": 1,
+            "pull": 0.65
+          }
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "minecraft:item/bow_pulling_2"
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/4/quartz",
+          "predicate": {
+            "trim_type": 0.1,
+            "pulling": 1,
+            "pull": 0.9
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/4/iron",
+          "predicate": {
+            "trim_type": 0.2,
+            "pulling": 1,
+            "pull": 0.9
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/4/netherite",
+          "predicate": {
+            "trim_type": 0.3,
+            "pulling": 1,
+            "pull": 0.9
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/4/redstone",
+          "predicate": {
+            "trim_type": 0.4,
+            "pulling": 1,
+            "pull": 0.9
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/4/copper",
+          "predicate": {
+            "trim_type": 0.5,
+            "pulling": 1,
+            "pull": 0.9
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/4/gold",
+          "predicate": {
+            "trim_type": 0.6,
+            "pulling": 1,
+            "pull": 0.9
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/4/emerald",
+          "predicate": {
+            "trim_type": 0.7,
+            "pulling": 1,
+            "pull": 0.9
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/4/diamond",
+          "predicate": {
+            "trim_type": 0.8,
+            "pulling": 1,
+            "pull": 0.9
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/4/lapis",
+          "predicate": {
+            "trim_type": 0.9,
+            "pulling": 1,
+            "pull": 0.9
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/bow/4/amethyst",
+          "predicate": {
+            "trim_type": 1.0,
+            "pulling": 1,
+            "pull": 0.9
+          }
+        }
+    ]
+}

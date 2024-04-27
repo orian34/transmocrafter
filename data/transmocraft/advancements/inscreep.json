@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "Creeper Banner Pattern",
+            "translate": "transmo.ins.creep",
+            "fallback": "Creeper Scroll",
             "color": "white"
         },
         "description": {
-            "text": "Applicable on bows and crossbows.",
+            "translate": "transmo.ins.creep.desc",
+            "fallback": "Applicable on bows and crossbows.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:creeper_banner_pattern"
+            "id": "minecraft:creeper_banner_pattern"
         },
         "frame": "task",
         "show_toast": false,

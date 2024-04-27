@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "transmocrafter:trims/items/axe",
+        "transmocrafter:trims/items/sword",
+        "transmocrafter:trims/items/hoe",
+        "transmocrafter:trims/items/pickaxe",
+        "transmocrafter:trims/items/shovel",
+        "transmocrafter:trims/items/trident",
+        "transmocrafter:trims/items/flint",
+        "transmocrafter:trims/items/crossbow",
+        "transmocrafter:trims/items/crossbow_2",
+        "transmocrafter:trims/items/crossbow_3",
+        "transmocrafter:trims/items/crossbow_4",
+        "transmocrafter:trims/items/crossbow_5",
+        "transmocrafter:trims/items/crossbow_6",
+        "transmocrafter:trims/items/bow",
+        "transmocrafter:trims/items/bow_2",
+        "transmocrafter:trims/items/bow_3",
+        "transmocrafter:trims/items/bow_4"
+      ],
+      "palette_key": "trims/color_palettes/trim_palette",
+      "permutations": {
+        "quartz": "trims/color_palettes/quartz",
+        "iron": "trims/color_palettes/iron",
+        "gold": "trims/color_palettes/gold",
+        "diamond": "trims/color_palettes/diamond",
+        "netherite": "trims/color_palettes/netherite",
+        "redstone": "trims/color_palettes/redstone",
+        "copper": "trims/color_palettes/copper",
+        "emerald": "trims/color_palettes/emerald",
+        "lapis": "trims/color_palettes/lapis",
+        "amethyst": "trims/color_palettes/amethyst"
+      }
+    }
+  ]
+}

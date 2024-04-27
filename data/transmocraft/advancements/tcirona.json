@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": " Iron Armor ",
+            "translate": "transmo.tc.iron.a",
+            "fallback": " Iron Armor ",
             "color": "white"
         },
         "description": {
-            "text": "Chainmail armor can be upgraded into iron armor by using iron ingots as template.",
+            "translate": "transmo.tc.iron.a.desc",
+            "fallback": "Chainmail armor can be upgraded into iron armor by using iron ingots as template.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:iron_helmet"
+            "id": "minecraft:iron_helmet"
         },
         "frame": "task",
         "show_toast": true,

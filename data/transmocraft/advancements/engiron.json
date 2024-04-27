@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "translate": "transmo.eng.mat.iron",
+            "fallback": "Iron Upgrade",
+            "color": "white"
+        },
+        "description": {
+            "translate": "transmo.eng.iron",
+            "fallback": "Tier 3",
+            "color": "aqua"
+        },
+        "icon": {
+            "id": "minecraft:iron_ingot"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:engcopper"
+}

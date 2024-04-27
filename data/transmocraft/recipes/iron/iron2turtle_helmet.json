@@ -7,7 +7,7 @@
     "item": "minecraft:iron_ingot"
   },
   "result": {
-    "item": "minecraft:turtle_helmet"
+    "id": "minecraft:turtle_helmet"
   },
   "template": {
     "tag": "transmocraft:scute_temp"

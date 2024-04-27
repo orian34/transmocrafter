@@ -7,7 +7,7 @@
     "item": "minecraft:gold_ingot"
   },
   "result": {
-    "item": "minecraft:golden_chestplate"
+    "id": "minecraft:golden_chestplate"
   },
   "template": {
     "item": "minecraft:golden_chestplate"

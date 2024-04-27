@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "translate": "transmo.eng",
+            "fallback": "       Engraving       ",
+            "color": "white"
+        },
+        "description": {
+            "translate": "transmo.eng.desc",
+            "fallback": "You can apply extra upgrades on your gear with the smithing table. \n\nBased on the trimming system, runes are used to give flat attribute increases and ingredients for tiers. \n\nThe upgrades work independently from standard data and can be replaced freely.",
+            "color": "aqua"
+        },
+        "icon": {
+            "id": "minecraft:brush"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:prime"
+}

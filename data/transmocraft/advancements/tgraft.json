@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "  Transmografting  ",
+            "translate": "transmo.graft",
+            "fallback": "  Transmografting  ",
             "color": "white"
         },
         "description": {
-            "text": "You can modify the shape of your gear on the smithing table. \n\nTransfer the NBT while picking the most suitable form for your items.",
+            "translate": "transmo.graft.desc",
+            "fallback": "You can modify the shape of your gear on the smithing table. \n\nTransfer the custom data while picking the most suitable form for your items.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:clay"
+            "id": "minecraft:clay"
         },
         "frame": "goal",
         "show_toast": false,

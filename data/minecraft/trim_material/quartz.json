@@ -1,0 +1,10 @@
+{
+  "asset_name": "quartz",
+  "description": {
+    "color": "#E3D4C4",
+    "translate": "transmo.eng.quartz",
+    "fallback": "Tier 4"
+  },
+  "ingredient": "minecraft:quartz",
+  "item_model_index": 0.1
+}

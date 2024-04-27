@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "Splash Potion",
+            "translate": "transmo.imb.spla",
+            "fallback": "Splash Potion",
             "color": "white"
         },
         "description": {
-            "text": "Uses gunpowder as template.",
+            "translate": "transmo.imb.spla.desc",
+            "fallback": "Uses gunpowder as template.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:splash_potion"
+            "id": "minecraft:splash_potion"
         },
         "frame": "task",
         "show_toast": false,

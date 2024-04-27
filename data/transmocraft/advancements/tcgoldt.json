@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": " Golden Tools ",
+            "translate": "transmo.tc.gold.t",
+            "fallback": " Golden Tools ",
             "color": "white"
         },
         "description": {
-            "text": "Stone tools can be upgraded into golden tools by using gold ingots as template. \n\nThey can't be upgraded further.",
+            "translate": "transmo.tc.gold.t.desc",
+            "fallback": "Stone tools can be upgraded into golden tools by using gold ingots as template. \n\nThey can't be upgraded further.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:golden_pickaxe"
+            "id": "minecraft:golden_pickaxe"
         },
         "frame": "task",
         "show_toast": true,

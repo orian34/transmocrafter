@@ -1,0 +1,9 @@
+{
+  "asset_id": "minecraft:dune",
+  "decal": false,
+  "description": {
+    "translate": "transmo.eng.dune",
+    "fallback": "Mining Reach"
+  },
+  "template_item": "minecraft:dune_armor_trim_smithing_template"
+}

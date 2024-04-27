@@ -7,7 +7,7 @@
     "item": "minecraft:leather"
   },
   "result": {
-    "item": "minecraft:leather_chestplate"
+    "id": "minecraft:leather_chestplate"
   },
   "template": {
     "item": "minecraft:leather_chestplate"

@@ -7,7 +7,7 @@
 	"tag": "minecraft:planks"
   },
   "result": {
-    "item": "minecraft:wooden_sword"
+    "id": "minecraft:wooden_sword"
   },
   "template": {
     "item": "minecraft:wooden_sword"

@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "Standard Potion",
+            "translate": "transmo.imb.pot",
+            "fallback": "Standard Potion",
             "color": "white"
         },
         "description": {
-            "text": "Uses nether wart as template.",
+            "translate": "transmo.imb.pot.desc",
+            "fallback": "Uses nether wart as template.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:potion"
+            "id": "minecraft:potion"
         },
         "frame": "task",
         "show_toast": false,

@@ -1,0 +1,13 @@
+{
+  "asset_name": "diamond",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "transmo.eng.diamond",
+    "fallback": "Tier 8"
+  },
+  "ingredient": "minecraft:diamond",
+  "item_model_index": 0.8,
+  "override_armor_materials": {
+    "minecraft:diamond": "diamond_darker"
+  }
+}

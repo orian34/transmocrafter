@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "translate": "transmo.eng.mat.quartz",
+            "fallback": "Quartz Upgrade",
+            "color": "white"
+        },
+        "description": {
+            "translate": "transmo.eng.quartz",
+            "fallback": "Tier 4",
+            "color": "aqua"
+        },
+        "icon": {
+            "id": "minecraft:quartz"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:engiron"
+}

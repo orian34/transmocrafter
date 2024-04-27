@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "translate": "transmo.eng.trim.sentry",
+            "fallback": "Sentry Rune",
+            "color": "white"
+        },
+        "description": {
+            "translate": "transmo.eng.trim.sentry.desc",
+            "fallback": "Provides +1.2% Knockback Resistance per Tier.",
+            "color": "aqua"
+        },
+        "icon": {
+            "id": "minecraft:sentry_armor_trim_smithing_template"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:engrib"
+}

@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "     Bows     ",
+            "translate": "transmo.tg.bow",
+            "fallback": "     Bows     ",
             "color": "white"
         },
         "description": {
-            "text": "Any bow or crossbow can be changed into each other by using the new shape as template.",
+            "translate": "transmo.tg.bow.desc",
+            "fallback": "Any bow or crossbow can be changed into each other by using the new shape as template.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:crossbow"
+            "id": "minecraft:crossbow"
         },
         "frame": "task",
         "show_toast": false,

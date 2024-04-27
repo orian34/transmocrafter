@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "Piglin Banner Pattern",
+            "translate": "transmo.ins.pig",
+            "fallback": "Piglin Scroll",
             "color": "white"
         },
         "description": {
-            "text": "Applicable on golden armor and tools.",
+            "translate": "transmo.ins.pig.desc",
+            "fallback": "Applicable on golden armor and tools.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:piglin_banner_pattern"
+            "id": "minecraft:piglin_banner_pattern"
         },
         "frame": "task",
         "show_toast": false,

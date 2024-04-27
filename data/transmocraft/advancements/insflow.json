@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "Flower Banner Pattern",
+            "translate": "transmo.ins.flow",
+            "fallback": "Flower Scroll",
             "color": "white"
         },
         "description": {
-            "text": "Applicable on armor: helmet, chestplate, leggings, boots.",
+            "translate": "transmo.ins.flow.desc",
+            "fallback": "Applicable on armor: helmet, chestplate, leggings, boots.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:flower_banner_pattern"
+            "id": "minecraft:flower_banner_pattern"
         },
         "frame": "task",
         "show_toast": false,

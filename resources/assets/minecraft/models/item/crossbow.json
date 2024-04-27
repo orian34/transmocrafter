@@ -1,0 +1,503 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/crossbow_standby"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, 0, -60 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 0, 30 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -90, 0, -55 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -90, 0, 35 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+        {
+          "model": "transmocrafter:item/trim/crossbow/1/quartz",
+          "predicate": {
+            "trim_type": 0.1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/1/iron",
+          "predicate": {
+            "trim_type": 0.2
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/1/netherite",
+          "predicate": {
+            "trim_type": 0.3
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/1/redstone",
+          "predicate": {
+            "trim_type": 0.4
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/1/copper",
+          "predicate": {
+            "trim_type": 0.5
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/1/gold",
+          "predicate": {
+            "trim_type": 0.6
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/1/emerald",
+          "predicate": {
+            "trim_type": 0.7
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/1/diamond",
+          "predicate": {
+            "trim_type": 0.8
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/1/lapis",
+          "predicate": {
+            "trim_type": 0.9
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/1/amethyst",
+          "predicate": {
+            "trim_type": 1.0
+          }
+        },
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "item/crossbow_pulling_0"
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/2/quartz",
+          "predicate": {
+            "trim_type": 0.1,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/2/iron",
+          "predicate": {
+            "trim_type": 0.2,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/2/netherite",
+          "predicate": {
+            "trim_type": 0.3,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/2/redstone",
+          "predicate": {
+            "trim_type": 0.4,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/2/copper",
+          "predicate": {
+            "trim_type": 0.5,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/2/gold",
+          "predicate": {
+            "trim_type": 0.6,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/2/emerald",
+          "predicate": {
+            "trim_type": 0.7,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/2/diamond",
+          "predicate": {
+            "trim_type": 0.8,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/2/lapis",
+          "predicate": {
+            "trim_type": 0.9,
+            "pulling": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/2/amethyst",
+          "predicate": {
+            "trim_type": 1.0,
+            "pulling": 1
+          }
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/crossbow_pulling_1"
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/3/quartz",
+          "predicate": {
+            "trim_type": 0.1,
+            "pulling": 1,
+            "pull": 0.58
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/3/iron",
+          "predicate": {
+            "trim_type": 0.2,
+            "pulling": 1,
+            "pull": 0.58
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/3/netherite",
+          "predicate": {
+            "trim_type": 0.3,
+            "pulling": 1,
+            "pull": 0.58
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/3/redstone",
+          "predicate": {
+            "trim_type": 0.4,
+            "pulling": 1,
+            "pull": 0.58
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/3/copper",
+          "predicate": {
+            "trim_type": 0.5,
+            "pulling": 1,
+            "pull": 0.58
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/3/gold",
+          "predicate": {
+            "trim_type": 0.6,
+            "pulling": 1,
+            "pull": 0.58
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/3/emerald",
+          "predicate": {
+            "trim_type": 0.7,
+            "pulling": 1,
+            "pull": 0.58
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/3/diamond",
+          "predicate": {
+            "trim_type": 0.8,
+            "pulling": 1,
+            "pull": 0.58
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/3/lapis",
+          "predicate": {
+            "trim_type": 0.9,
+            "pulling": 1,
+            "pull": 0.58
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/3/amethyst",
+          "predicate": {
+            "trim_type": 1.0,
+            "pulling": 1,
+            "pull": 0.58
+          }
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "item/crossbow_pulling_2"
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/4/quartz",
+          "predicate": {
+            "trim_type": 0.1,
+            "pulling": 1,
+            "pull": 1.0
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/4/iron",
+          "predicate": {
+            "trim_type": 0.2,
+            "pulling": 1,
+            "pull": 1.0
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/4/netherite",
+          "predicate": {
+            "trim_type": 0.3,
+            "pulling": 1,
+            "pull": 1.0
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/4/redstone",
+          "predicate": {
+            "trim_type": 0.4,
+            "pulling": 1,
+            "pull": 1.0
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/4/copper",
+          "predicate": {
+            "trim_type": 0.5,
+            "pulling": 1,
+            "pull": 1.0
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/4/gold",
+          "predicate": {
+            "trim_type": 0.6,
+            "pulling": 1,
+            "pull": 1.0
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/4/emerald",
+          "predicate": {
+            "trim_type": 0.7,
+            "pulling": 1,
+            "pull": 1.0
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/4/diamond",
+          "predicate": {
+            "trim_type": 0.8,
+            "pulling": 1,
+            "pull": 1.0
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/4/lapis",
+          "predicate": {
+            "trim_type": 0.9,
+            "pulling": 1,
+            "pull": 1.0
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/4/amethyst",
+          "predicate": {
+            "trim_type": 1.0,
+            "pulling": 1,
+            "pull": 1.0
+          }
+        },
+        {
+            "predicate": {
+                "charged": 1
+            },
+            "model": "item/crossbow_arrow"
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/5/quartz",
+          "predicate": {
+            "trim_type": 0.1,
+            "charged": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/5/iron",
+          "predicate": {
+            "trim_type": 0.2,
+            "charged": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/5/netherite",
+          "predicate": {
+            "trim_type": 0.3,
+            "charged": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/5/redstone",
+          "predicate": {
+            "trim_type": 0.4,
+            "charged": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/5/copper",
+          "predicate": {
+            "trim_type": 0.5,
+            "charged": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/5/gold",
+          "predicate": {
+            "trim_type": 0.6,
+            "charged": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/5/emerald",
+          "predicate": {
+            "trim_type": 0.7,
+            "charged": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/5/diamond",
+          "predicate": {
+            "trim_type": 0.8,
+            "charged": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/5/lapis",
+          "predicate": {
+            "trim_type": 0.9,
+            "charged": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/5/amethyst",
+          "predicate": {
+            "trim_type": 1.0,
+            "charged": 1
+          }
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/crossbow_firework"
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/6/quartz",
+          "predicate": {
+            "trim_type": 0.1,
+            "charged": 1,
+            "firework": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/6/iron",
+          "predicate": {
+            "trim_type": 0.2,
+            "charged": 1,
+            "firework": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/6/netherite",
+          "predicate": {
+            "trim_type": 0.3,
+            "charged": 1,
+            "firework": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/6/redstone",
+          "predicate": {
+            "trim_type": 0.4,
+            "charged": 1,
+            "firework": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/6/copper",
+          "predicate": {
+            "trim_type": 0.5,
+            "charged": 1,
+            "firework": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/6/gold",
+          "predicate": {
+            "trim_type": 0.6,
+            "charged": 1,
+            "firework": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/6/emerald",
+          "predicate": {
+            "trim_type": 0.7,
+            "charged": 1,
+            "firework": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/6/diamond",
+          "predicate": {
+            "trim_type": 0.8,
+            "charged": 1,
+            "firework": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/6/lapis",
+          "predicate": {
+            "trim_type": 0.9,
+            "charged": 1,
+            "firework": 1
+          }
+        },
+        {
+          "model": "transmocrafter:item/trim/crossbow/6/amethyst",
+          "predicate": {
+            "trim_type": 1.0,
+            "charged": 1,
+            "firework": 1
+          }
+        }
+    ]
+}

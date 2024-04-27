@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "inventory_update": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "inventory_update"
+    ]
+  ],
+  "rewards": {
+    "function": "transmocraft:reset_attributes"
+  }
+}

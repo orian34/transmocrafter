@@ -7,7 +7,7 @@
 	"tag": "minecraft:planks"
   },
   "result": {
-    "item": "minecraft:bow"
+    "id": "minecraft:bow"
   },
   "template": {
     "item": "minecraft:bow"

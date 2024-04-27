@@ -1,0 +1,9 @@
+{
+  "asset_id": "minecraft:rib",
+  "decal": false,
+  "description": {
+    "translate": "transmo.eng.rib",
+    "fallback": "Armor"
+  },
+  "template_item": "minecraft:rib_armor_trim_smithing_template"
+}

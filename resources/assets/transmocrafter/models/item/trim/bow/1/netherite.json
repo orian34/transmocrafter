@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "minecraft:item/bow",
+    "layer1": "transmocrafter:trims/items/bow_netherite"
+  }
+}

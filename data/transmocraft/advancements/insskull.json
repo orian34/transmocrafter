@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "Skull Banner Pattern",
+            "translate": "transmo.ins.skull",
+            "fallback": "Skull Scroll",
             "color": "white"
         },
         "description": {
-            "text": "Applicable on tools: sword, axe, pickaxe, shovel, hoe.",
+            "translate": "transmo.ins.skull.desc",
+            "fallback": "Applicable on tools: sword, axe, pickaxe, shovel, hoe.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:skull_banner_pattern"
+            "id": "minecraft:skull_banner_pattern"
         },
         "frame": "task",
         "show_toast": false,

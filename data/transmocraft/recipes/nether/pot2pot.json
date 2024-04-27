@@ -7,7 +7,7 @@
     "item": "minecraft:blaze_powder"
   },
   "result": {
-    "item": "minecraft:potion"
+    "id": "minecraft:potion"
   },
   "template": {
     "item": "minecraft:nether_wart"

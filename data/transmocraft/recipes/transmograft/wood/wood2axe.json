@@ -7,7 +7,7 @@
 	"tag": "minecraft:planks"
   },
   "result": {
-    "item": "minecraft:wooden_axe"
+    "id": "minecraft:wooden_axe"
   },
   "template": {
     "item": "minecraft:wooden_axe"

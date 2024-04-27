@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "translate": "transmo.eng.mat.amethyst",
+            "fallback": "Amethyst Upgrade",
+            "color": "white"
+        },
+        "description": {
+            "translate": "transmo.eng.amethyst",
+            "fallback": "Tier 6",
+            "color": "aqua"
+        },
+        "icon": {
+            "id": "minecraft:amethyst_shard"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "transmocraft:enggold"
+}

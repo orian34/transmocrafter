@@ -1,0 +1,9 @@
+{
+  "asset_id": "minecraft:silence",
+  "decal": false,
+  "description": {
+    "translate": "transmo.eng.silence",
+    "fallback": "Attack Damage"
+  },
+  "template_item": "minecraft:silence_armor_trim_smithing_template"
+}

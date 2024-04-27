@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/crossbow",
+  "textures": {
+    "layer0": "minecraft:item/crossbow_pulling_0",
+    "layer1": "transmocrafter:trims/items/crossbow_2_redstone"
+  }
+}

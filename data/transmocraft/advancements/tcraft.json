@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "  Transmocrafting  ",
+            "translate": "transmo.craft",
+            "fallback": "  Transmocrafting  ",
             "color": "white"
         },
         "description": {
-            "text": "You can use various templates and tier materials to upgrade your gear on the smithing table. \n\nTransfer the NBT while increasing the tier to keep items relevant as you progress.",
+            "translate": "transmo.craft.desc",
+            "fallback": "You can use various templates and tier materials to upgrade your gear on the smithing table. \n\nTransfer the custom data while increasing the tier to keep items relevant as you progress.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:netherite_ingot"
+            "id": "minecraft:netherite_ingot"
         },
         "frame": "goal",
         "show_toast": false,

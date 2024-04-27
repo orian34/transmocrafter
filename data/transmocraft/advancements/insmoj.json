@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "Mojang Banner Pattern",
+            "translate": "transmo.ins.moj",
+            "fallback": "Mojang Scroll",
             "color": "white"
         },
         "description": {
-            "text": "Applicable on shields.",
+            "translate": "transmo.ins.moj.desc",
+            "fallback": "Applicable on shields.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:mojang_banner_pattern"
+            "id": "minecraft:mojang_banner_pattern"
         },
         "frame": "task",
         "show_toast": false,

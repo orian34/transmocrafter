@@ -7,7 +7,7 @@
     "item": "minecraft:iron_ingot"
   },
   "result": {
-    "item": "minecraft:iron_leggings"
+    "id": "minecraft:iron_leggings"
   },
   "template": {
     "item": "minecraft:iron_leggings"
